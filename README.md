@@ -1,0 +1,2 @@
+# scripting
+scripting sobre sinasc
